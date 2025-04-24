@@ -1,0 +1,8 @@
+models:
+  - name: stg_product
+    latest_version: 2
+    versions:
+      - v: 2
+        #ndefined_in: stg_products_new
+
+      - v: 1
